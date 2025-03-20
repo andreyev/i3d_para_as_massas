@@ -153,13 +153,6 @@ G1 X0 Y0 E4 ; Lado esquerdo (fecha o quadrado)
 
 ---
 
-# Extras
-
-- AI https://text-to-cad.zoo.dev/dashboard
-- paquimetro
-
----
-
 <!--
 footer: ''
 -->
@@ -167,3 +160,14 @@ footer: ''
 # Obrigado!!!!!1
 Repositório desta apresentação https://github.com/andreyev/i3d_para_as_massas
 ![](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/andreyev/i3d_para_as_massas)
+
+---
+<!--
+header: Impressão 3D para as massas
+footer: Repositório desta apresentação https://github.com/andreyev/i3d_para_as_massas
+-->
+
+# Extras
+
+- AI https://text-to-cad.zoo.dev/dashboard
+- paquimetro
