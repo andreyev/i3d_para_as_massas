@@ -59,6 +59,10 @@ footer: 'fonte da imagem: https://hopific.com/introduction-to-grasshopper-for-rh
 -->
 
 ---
+<!--
+header: Impressão 3D para as massas
+footer: Repositório desta apresentação https://github.com/andreyev/i3d_para_as_massas
+-->
 
 # Vantagens:
 * Parametrizável
@@ -87,6 +91,10 @@ footer: 'fonte da imagem: https://brasilescola.uol.com.br/o-que-e/matematica/o-q
 -->
 
 ---
+<!--
+header: Impressão 3D para as massas
+footer: Repositório desta apresentação https://github.com/andreyev/i3d_para_as_massas
+-->
 
 # CSG > CAD
 
