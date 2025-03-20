@@ -146,6 +146,13 @@ G1 X0 Y0 E4 ; Lado esquerdo (fecha o quadrado)
 
 ---
 
+# Agradecimentos
+
+* [Sheimy](https://www.linkedin.com/in/sheimyrahman/)
+* [JRGandara](https://www.linkedin.com/in/joao-roberto-sampaio-gandara-ferreira-95905a155/)
+
+---
+
 # Extras
 
 - AI https://text-to-cad.zoo.dev/dashboard
