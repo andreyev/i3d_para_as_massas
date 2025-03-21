@@ -22,8 +22,15 @@ header: Impressão 3D para as massas
 footer: Repositório desta apresentação https://github.com/andreyev/i3d_para_as_massas
 -->
 
-_Disclaimer_ :
-- Uma GIA(ChatGPT-4) foi usada para confecção desta apresentação.
+_Disclaimer_ #0:
+
+## Código de conduta em https://github.com/lhc/estatuto/blob/master/src/codigo_conduta.md
+![](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://github.com/lhc/estatuto/blob/master/src/codigo_conduta.md)
+
+---
+
+_Disclaimer_ #1:
+- Uma GIA(ChatGPT-4) auxiliou a confecção desta apresentação e das imagens.
 - As opiniões expressas neste documento são de responsabilidade exclusiva do autor e não refletem necessariamente as opiniões ou posições de quaisquer organizações, instituições ou entidades com as quais o autor esteja associado. As informações e visões apresentadas são de caráter pessoal e não devem ser interpretadas como uma representação oficial ou endosse de quaisquer organizações ou partes externas.
 
 ---
@@ -35,6 +42,18 @@ _Disclaimer_ #2:
 
 _Disclaimer_ #2:
 > _There Is More Than One Way To Do It_ (tem mais de um jeito de fazer isso) ;-)
+
+---
+
+_Disclaimer_ #3:
+
+## DRY (_Dont Repeat Yourself_) + Open Source + Remix Culture
+* https://www.printables.com
+* https://www.thingiverse.com
+* https://cults3d.com
+* https://thangs.com
+* https://makerworld.com
+* https://www.yeggi.com
 
 ---
 
