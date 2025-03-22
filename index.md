@@ -45,7 +45,7 @@ _Disclaimer_ #2:
 
 ---
 
-_Disclaimer_ #3:
+_"_Disclaimer_ #3"_:
 
 ## DRY (_Dont Repeat Yourself_) + Open Source + Remix Culture
 * https://www.printables.com
@@ -58,10 +58,6 @@ _Disclaimer_ #3:
 ---
 
 > "A impressão 3D é uma solução a procura de problemas"
-
----
-
-> "A impressão 3D é uma solução a procura de problemas VELHOS"
 
 ---
 
@@ -91,6 +87,9 @@ footer: Repositório desta apresentação https://github.com/andreyev/i3d_para_a
 * _CAD_(_Computer-Aided Design_)/_CAM_(_Computer-Aided Manufacturing_)
 * _Over Engineering_?!
 
+---
+
+> "A impressão 3D é uma solução a procura de problemas VELHOS"
 ---
 
 > _Keep It Simple_ (Mantenha a simplicidade)
